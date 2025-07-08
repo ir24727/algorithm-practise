@@ -1,2 +1,2 @@
-# remote0-repo
-这是一个用于学习的git示例仓库
+# Algorithm and Data Sturcture
+这是一个用于学习的算法和数据结构的git
