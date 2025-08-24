@@ -1,4 +1,4 @@
-package leetcode;
+package code;
 
 public class TwoSearch {
     public int search(int[] nums, int target) {
